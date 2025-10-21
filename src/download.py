@@ -15,6 +15,5 @@ def download():
         print("Error in downloading dataset")
 
 
-
 if __name__ == "__main__":
     download()
